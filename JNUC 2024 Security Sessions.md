@@ -1,4 +1,4 @@
-# JNUC 2024 Security Sessions. 
+# JNUC 2024 Security Sessions:
 
 ## Tuesday:
 
