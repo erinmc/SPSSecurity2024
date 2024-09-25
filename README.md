@@ -1,6 +1,9 @@
-# JNUC 2024 Global Partner Summit Security Resources
+# JNUC 2024 Services Partner Summit Security Resources
 
 ## Enablement Materials
+
++
++
 
 ## JNUC 2024 Security Sessions
 
